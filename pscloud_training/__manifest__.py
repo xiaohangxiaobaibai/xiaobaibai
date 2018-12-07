@@ -13,7 +13,7 @@
         'views/training_views.xml',
     ],
     'demo': [
-        'demo/pscloud_demo.xml',
+        
     ],
     'qweb': [],
     'js': [],
