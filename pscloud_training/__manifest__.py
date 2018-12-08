@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+022\# -*- coding: utf-8 -*-
 {
     'name': 'PS Cloud 培训',
     'version': '12.0.1.0',
@@ -8,7 +8,7 @@
     'category': 'Tools',
     'depends': ['base'],
     'data': [
-        'views/training_lesson_views.xml',
+        'security/ir.model.access.csv',
         'views/training_subject_views.xml',
         'views/training_views.xml',
     ],
